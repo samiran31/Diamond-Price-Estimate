@@ -1,3 +1,11 @@
+In this kernal a nice feature engineering where (length , breadth and Height ) has been converted into one feature(volume) which has improved the accuracy of the model by atleast 10%.
+
+Learning:- IF possible try to merge your features. Lower the number of varibable/features involved better will be the accuracy.
+
+Once feature Engineering is Done I have used various models LR,GBR,DTR,SVR,RFR,Stacking to predict the outcome and SVR gave a better result of 98%.
+
+
+#DESCRIPTION
 # Diamond-Price-Estimate
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds
 
